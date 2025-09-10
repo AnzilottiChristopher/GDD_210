@@ -346,7 +346,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 1.3332825}
     m_SelectedIDs: 5ca60000
     m_LastClickedID: 42588
-    m_ExpandedIDs: 000000005ca60000
+    m_ExpandedIDs: 00000000aaa60000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -375,7 +375,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005ca60000
+    m_ExpandedIDs: 00000000aaa60000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1057,7 +1057,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: -5.149334, y: 8.78744, z: 1.2606139}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
@@ -1105,11 +1105,11 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Target: {x: -0.2578031, y: 0.56997055, z: -0.19446424, w: -0.7555684}
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
-    m_Target: 10
+    m_Target: 10.151735
     speed: 2
     m_Value: 10
   m_Ortho:
@@ -1220,10 +1220,10 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 668
-      height: 397.66666
-    m_Scale: {x: 0.39140624, y: 0.39140624}
-    m_Translation: {x: 334, y: 198.83333}
+      width: 660
+      height: 388.33334
+    m_Scale: {x: 0.38671872, y: 0.38671872}
+    m_Translation: {x: 330, y: 194.16667}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -1231,12 +1231,12 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -853.3334
-      y: -507.99734
+      y: -502.0876
       width: 1706.6667
-      height: 1015.9947
+      height: 1004.1752
     m_MinimalGUI: 1
-  m_defaultScale: 0.39140624
-  m_LastWindowPixelSize: {x: 668, y: 418.66666}
+  m_defaultScale: 0.38671872
+  m_LastWindowPixelSize: {x: 660, y: 409.33334}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
