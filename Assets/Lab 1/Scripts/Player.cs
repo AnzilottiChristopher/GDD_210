@@ -4,6 +4,7 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     public float moveSpeed = 5f;
+    public GameObject youLoseScreen;
 
     // Update is called once per frame
     void Update()
@@ -54,5 +55,10 @@ public class Player : MonoBehaviour
         {
             KillPlayer();
         }
+        if (youLoseScreen != null)
+        {
+            youLoseScreen.SetActive(true);
+        }
+        Time.timeScale = 0f;
     }
 }

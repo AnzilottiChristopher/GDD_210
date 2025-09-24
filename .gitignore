@@ -9,6 +9,8 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
+[Oo]bj/
+[Ll]ib/
 
 # Cache files
 sysinfo.txt
@@ -66,3 +68,6 @@ Assets/Plugins/Editor/JetBrains*
 
 # Unity Collaborate
 .collabignore
+
+*.zip
+*.zip.*
